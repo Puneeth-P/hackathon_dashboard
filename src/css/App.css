@@ -8,6 +8,10 @@
 
 }
 
+h1 {
+  font-family: 'Artifika', serif;
+}
+
 .App-header {
   background-color: lightblue;
   height: 190px;

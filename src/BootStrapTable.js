@@ -113,7 +113,7 @@ export default class ExpandRow extends Component {
             expandRowBgColor: '#AED6F1',
             expandBy: 'column',
             onRowDoubleClick: function (row) {
-                alert(`You double click row id: ${row.id}`);
+                window.location = '/ad/' +row.id ;
             },
             clearSearch: true
         };
