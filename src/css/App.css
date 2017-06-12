@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 100px;
+
+}
+
+.App-header {
+  background-color: lightblue;
+  height: 190px;
+  padding: 20px;
+  color: blue;
+  margin-bottom: 10px;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.green-score {
+  background-color: green;
+  font-weight: bold;
+  color: whitesmoke;
+}
+
+.orange-score {
+  background-color: orange;
+  font-weight: bold;
+  color: whitesmoke;
+}
+
+.red-score {
+  background-color: red;
+  font-weight: bold;
+  color: whitesmoke;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
