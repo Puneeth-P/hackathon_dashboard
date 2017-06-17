@@ -1,0 +1,27 @@
+[
+	{
+		"url" : "http://www.booking.com/city/us/new-york.html?aid=306395;label=new-york-Rq*9j4EWVsc*7ElQI*TfEwS110121587789:pl:ta:p1500:p2:ac:ap1t1:neg:fi:tiaud-146342138710:kwd-4525987093:lp9061995:li:dec:dm;ws=&gclid=CjwKEAjw387JBRDPtJePvOej8kASJADkV9TLfCYx2bkdWTgCgYtkjN53i15xWZmOOg0gr3KZc_ZVjRoChJnw_wcB",
+		"landing_page" : "www.booking.com/New-York-Ny/Hotels‎",
+		"heading_1" : "500 Hotels in New York NY",
+		"heading_2" : "Half-Price Hotels. Book now - booking.com‎",
+		"description" : "Book your Hotel in New York NY online. No reservation costs. Great rates.|Read Real Guest Reviews · We speak your language · Get Instant Confirmation · Secure Booking|Types: Hotels, Apartments, Villas, Hostels, Resorts, B&Bs",
+		"query" : "Hotel in New York"
+	},
+	{	
+		"url" : "https://www.trivago.in/?iSemThemeId=10982&iPathId=84774&sem_keyword=hotels%20in%20bangalore&sem_creativeid=197523220454&sem_matchtype=e&sem_network=g&sem_device=c&sem_placement=&sem_target=&sem_adposition=1t2&sem_param1=&sem_param2=&sem_campaignid=149395583&sem_adgroupid=6901370423&sem_targetid=aud-83021163277:kwd-506090618&sem_location=9061995&cip=9112001011&gclid=CjwKEAjw387JBRDPtJePvOej8kASJADkV9TL2YMDA66yitPaaww3zu5IGB8D8I2CMe_iEu4J-lSAQRoClGbw_wcB",
+		"landing_page" : "www.trivago.in/Hotels/Bangalore‎",
+		"heading_1" : "Hotels in Bangalore from ₹900 ",
+		"heading_2" : "3702 Hotels to choose from - trivago.in‎",
+		"description" : "Your Ideal Hotel in Bangalore - Compare over 200 Booking Sites with trivago™!|Ideal Hotels at Best Rate · Compare and Save Money! · Best Hotels in Top Cities|Types: Hotels, B&Bs, Guesthouses, Resort",
+		"query" : "Hotel in Bangalore"
+	},
+	{
+		"url" : "http://www.google.com/ncr",	
+		"landing_page" : "http://www.google.com/ncr",
+		"heading_1" : "This is google",
+		"heading_2" : "google is life",
+		"description" : "You dont need ads for google because, we need google and not the other way round",
+		"query" : "google search"
+	}
+]
+

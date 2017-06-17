@@ -1,0 +1,46 @@
+a {
+  text-decoration : none;
+}
+a:Hover {
+  text-decoration : underline;
+}
+
+.Google_Advert {
+  margin: auto;
+  text-decoration : none;
+  text-align: left;
+  min-width: 960px;
+  padding-left: 10%;
+}
+
+.Ad-logo {
+  width: 21px;
+}
+
+.Heading {
+  color : #1A0DAB;
+}
+
+.Landing_page {
+  color : #138C3A;
+  font-size: 90%;
+  padding-left: .4%
+}
+
+.Description {
+  color : #545454;
+  font-size : 85%;
+  line-height: 150%;
+  display: -webkit-box;
+  -webkit-line-clamp: 1; 
+  -webkit-box-orient: vertical;
+}
+
+.Preview_btn {
+  float: right;
+  text-align: center;
+  font-size: 80%;
+  padding-left: 3%;
+  padding-right: 3%;
+  margin-right : 40%;
+}
